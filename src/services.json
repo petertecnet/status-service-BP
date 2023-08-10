@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "service": "SERPRO",
+      "status": "up"
+    },
+    {
+      "id": 2,
+      "service": "Conselho Nacional de Justiça",
+      "status": "warning"
+    },
+    {
+      "id": 3,
+      "service": "Tribunal de Justiça",
+      "status": "error"
+    },
+    {
+      "id": 4,
+      "service": "Ministério Público",
+      "status": "up"
+    },
+    {
+      "id": 5,
+      "service": "Receita Federal",
+      "status": "warning"
+    }
+  ]
+  
